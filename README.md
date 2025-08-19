@@ -10,9 +10,9 @@
 
 ✅ Edit existing project details
 
-✅ Delete projects when completed or no longer needed
+✅ Delete projects.
 
-✅ View all projects in an organized way
+✅ View all projects.
 
 The main goal is to provide a simple and practical solution for tracking deadlines, making project management more efficient.
 
