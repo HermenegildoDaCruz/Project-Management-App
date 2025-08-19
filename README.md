@@ -1,8 +1,8 @@
-### Project Management App
+# Project Management App
 
 ## The Project Management App is a basic application designed to simplify project management.
 
-# With this app, you can:
+### With this app, you can:
 
 ✅ Add new projects
 
